@@ -1,0 +1,2 @@
+Kumar, Raja. (2022) *WC_AT Dataset* Kaggle. https://www.kaggle.com/datasets/kumarraja052/wc-at-dataset
+Mate, Aishwarya (2023) *NewsPaper Dataset*  Github. https://github.com/aishwaryamate/Datasets/blob/main/NewspaperData.csv
