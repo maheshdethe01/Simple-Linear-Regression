@@ -1,2 +1,2 @@
 Kumar, Raja. (2022) *WC_AT Dataset* Kaggle. https://www.kaggle.com/datasets/kumarraja052/wc-at-dataset
-Shah, Syed (2023) *NewsPaper Dataset*  Kaggle. https://www.kaggle.com/datasets/shah1dsyed/newspaper
+Shah, Syed (2025) *NewsPaper Dataset*  Kaggle. https://www.kaggle.com/datasets/shah1dsyed/newspaper
