@@ -1,3 +1,3 @@
 # Simple-Linear-Regression
 
-## Used Simple Linear Regression for mentioned datasets: WC_At & Newspaper Dataset.
+## Used Simple Linear Regression for mentioned datasets: WC_AT & Newspaper Dataset.
